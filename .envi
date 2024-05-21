@@ -1,0 +1,6 @@
+DB_NAME = 'mydatabase'
+DB_USER = 'myuser'
+DB_PASSWORD = 'mypassword'
+EMAIL_HOST_USER = "example"
+EMAIL_HOST_PASSWORD = "example"
+EMAIL_OWNER_USER = "example"
