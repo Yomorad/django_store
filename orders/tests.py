@@ -1,11 +1,7 @@
-from asyncio.windows_events import NULL
-from django.test import TestCase
-from django.urls import reverse
-from django.utils import timezone
-from carts.models import Cart
-from goods.models import Products
-from orders.models import Order, OrderItem
 
+from django.test import TestCase
+from django.utils import timezone
+from orders.models import Order
 from users.models import User
 
 # Create your tests here.
